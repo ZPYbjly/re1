@@ -1,3 +1,9 @@
 git s
 dfadfa
 git add
+git config user.name "ZPYbjly"
+git config user.email "zpybjly@163.com"
+
+git add.
+
+git commit -m "提交信息"
